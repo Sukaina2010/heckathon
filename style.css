@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.btn{
+    background-color: rgb(112,30,125) !important;
+   height: 100px;
+   width: 300px;
+}
+button>p{
+    color: yellow !important;
+}
+button>span{
+    color: white;
+}
+.card-img-top{
+    height: 200px !important;
+    width: 300px !important;
+}
+.card-body{
+    width: 300px !important;
+}
+.card{
+    border: 0px;
+    gap: 30px;
+   
+}
+.card-group{
+    width: 800px;
+   gap: 50px;
+}
+.card-title{
+    color:rgb(112,30,125) !important ;
+}
+.mydiv{
+    background-color:rgb(112,30,125) !important ;
+    width: 100%;
+    height: 400px;
+    display: flex;
+
+}
+.flexible{
+    display: flex;
+    flex-direction: row;
+}
+.divv{
+    background-color: rgb(112,30,125) !important;
+    width: 100% !important;
+}
+.footerNav{
+    background-color:  rgb(112,30,125) !important;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    width: 100% !important;
+    color: white;
+    padding-top: 20px;
+    font-size: 30px;
+    padding: 10px;
+}
+.awards{
+   display: flex;
+   justify-content: center;
+}
+.award{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    background-color: rgb(235, 229, 229);
+}
+.services{
+    padding-top: 20px;
+    background-color: white;
+}
+.services>img{
+    gap: 20px;
+}
